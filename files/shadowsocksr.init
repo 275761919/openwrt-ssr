@@ -407,7 +407,7 @@ conf-dir=/etc/dnsmasq.ssr
 EOF
  			/etc/init.d/dnsmasq restart
 #			;;
-	esac
+#	esac
 	fi
 	
 	fi
